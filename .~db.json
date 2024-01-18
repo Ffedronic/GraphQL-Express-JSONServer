@@ -1,0 +1,34 @@
+{
+  "compagnies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "apple"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "search"
+    }
+  ],
+  "users": [
+    {
+      "id": "23",
+      "firstName": "diddy kong",
+      "age": 20,
+      "compagnyId": "1"
+    },
+    {
+      "id": "89",
+      "firstName": "estelle",
+      "age": 35,
+      "compagnyId": "2"
+    },
+    {
+      "id": "40",
+      "firstName": "mathieu",
+      "age": 20,
+      "compagnyId": "1"
+    }
+  ]
+}
